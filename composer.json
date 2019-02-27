@@ -1,0 +1,26 @@
+{
+  "name": "sgvsv/php-discourse",
+  "description": "PHP wrapper for Discourse forum's API",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "discourse",
+    "api"
+  ],
+  "homepage": "https://github.com/sgvsv/php-discourse",
+  "support": {
+    "issues": "https://github.com/sgvsv/php-discourse/issues"
+  },
+  "authors": [
+    {
+      "name": "Vasily Svitkin",
+      "email": "svitkin@gmail.com",
+      "role": "lead"
+    }
+  ],
+  "prefer-stable": true,
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=7.0"
+  }
+}
